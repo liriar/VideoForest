@@ -50,7 +50,7 @@ We design **VideoForest** around three key technical innovations:
 
 ---
 
-🚧 Note: Code will be made publicly available before the conference.
+🚧 Note: Code will be published soon.
 
 ---
 
