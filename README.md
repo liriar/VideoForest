@@ -48,7 +48,6 @@ We design **VideoForest** around three key technical innovations:
 3. **Multi-Agent Reasoning Framework**  
    We develop a multi-agent reasoning mechanism that traverses this hierarchical structure to perform sophisticated cross-video reasoning while maintaining computational efficiency.
 
-![Framework](videoforest_framework.png)
 ---
 
 🚧 Note: Code will be made publicly available before the conference.
