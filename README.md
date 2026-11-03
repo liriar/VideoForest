@@ -64,7 +64,7 @@ We design **VideoForest** around three key technical innovations:
 
 本包不附数据集、标注、实验结果或预处理数据。运行前按索引路径放置可信的 `segment_video.pkl`；批量脚本另需对应 QA JSON。
 
-安装 `requirements.txt`，将 `.env.example` 复制为 `.env` 并填写密钥，在本目录运行 `python main.py`。历史依赖版本未记录，完整 API 推理未验证。
+安装 `requirements.txt`，将 `.env.example` 复制为 `.env` 并填写密钥，在本目录运行 `python main.py`。
 
 
 ---
