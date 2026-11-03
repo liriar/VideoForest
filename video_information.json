@@ -1,0 +1,39 @@
+[
+    {
+        "information": "July 1st ,office A",
+        "path": "./tree/day_1.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 2nd ,office A",
+        "path": "./tree/day_2.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 3rd ,office A",
+        "path": "./tree/day_6.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 1st ,office B",
+        "path": "./tree/day_15.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 2nd ,office B",
+        "path": "./tree/day_16.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 3rd ,office B",
+        "path": "./tree/day_17.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 1st ,office C",
+        "path": "./tree/day_18.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 2nd ,office C",
+        "path": "./tree/day_19.avi/segment_video.pkl"
+    },
+    {
+        "information": "July 3rd ,office C",
+        "path": "./tree/day_20.avi/segment_video.pkl"
+    }
+
+]

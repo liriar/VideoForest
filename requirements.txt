@@ -1,0 +1,5 @@
+# Historical dependency versions were not recorded.
+crewai
+openai
+pydantic
+python-dotenv

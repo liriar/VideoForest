@@ -1,0 +1,102 @@
+[
+    {
+        "information": "1084-44_l865.avi",
+        "path": "./QA/UCF/preprocess/1084-44_l865.avi/segment_video.pkl"
+    },
+    {
+        "information": "2538-11_70015.avi",
+        "path": "./QA/UCF/preprocess/2538-11_70015.avi/segment_video.pkl"
+    },
+    {
+        "information": "2538-12_70246.avi",
+        "path": "./QA/UCF/preprocess/2538-12_70246.avi/segment_video.pkl"
+    },
+    {
+        "information": "2538-16_70032.avi",
+        "path": "./QA/UCF/preprocess/2538-16_70032.avi/segment_video.pkl"
+    },
+    {
+        "information": "2538-5_70133.avi",
+        "path": "./QA/UCF/preprocess/2538-5_70133.avi/segment_video.pkl"
+    },
+    {
+        "information": "3283-8_700741.avi",
+        "path": "./QA/UCF/preprocess/3283-8_700741.avi/segment_video.pkl"
+    },
+    {
+        "information": "3283-8_701201.avi",
+        "path": "./QA/UCF/preprocess/3283-8_701201.avi/segment_video.pkl"
+    },
+    {
+        "information": "3833-27_70006.avi",
+        "path": "./QA/UCF/preprocess/3833-27_70006.avi/segment_video.pkl"
+    },
+    {
+        "information": "3937-9_70105.avi",
+        "path": "./QA/UCF/preprocess/3937-9_70105.avi/segment_video.pkl"
+    },
+    {
+        "information": "3949-12_70207.avi",
+        "path": "./QA/UCF/preprocess/3949-12_70207.avi/segment_video.pkl"
+    },
+    {
+        "information": "4475-1_70541.avi",
+        "path": "./QA/UCF/preprocess/4475-1_70541.avi/segment_video.pkl"
+    },
+    {
+        "information": "7603-4_70159.avi",
+        "path": "./QA/UCF/preprocess/7603-4_70159.avi/segment_video.pkl"
+    },
+    {
+        "information": "7606-2_700810.avi",
+        "path": "./QA/UCF/preprocess/7606-2_700810.avi/segment_video.pkl"
+    },
+    {
+        "information": "7608-12_70275.avi",
+        "path": "./QA/UCF/preprocess/7608-12_70275.avi/segment_video.pkl"
+    },
+    {
+        "information": "7608-5_70039.avi",
+        "path": "./QA/UCF/preprocess/7608-5_70039.avi/segment_video.pkl"
+    },
+    {
+        "information": "7608-5_70308.avi",
+        "path": "./QA/UCF/preprocess/7608-5_70308.avi/segment_video.pkl"
+    },
+    {
+        "information": "7608-9_70(2)151.avi",
+        "path": "./QA/UCF/preprocess/7608-9_70(2)151.avi/segment_video.pkl"
+    },
+    {
+        "information": "7616-7_70270.avi",
+        "path": "./QA/UCF/preprocess/7616-7_70270.avi/segment_video.pkl"
+    },
+    {
+        "information": "778-62_l146.avi",
+        "path": "./QA/UCF/preprocess/778-62_l146.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-11456_70034.avi",
+        "path": "./QA/UCF/preprocess/RF1-11456_70034.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-13157_70040.avi",
+        "path": "./QA/UCF/preprocess/RF1-13157_70040.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-13206_70024.avi",
+        "path": "./QA/UCF/preprocess/RF1-13206_70024.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-13207_7015.avi",
+        "path": "./QA/UCF/preprocess/RF1-13207_7015.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-13209_70050.avi",
+        "path": "./QA/UCF/preprocess/RF1-13209_70050.avi/segment_video.pkl"
+    },
+    {
+        "information": "RF1-13903_70070.avi",
+        "path": "./QA/UCF/preprocess/RF1-13903_70070.avi/segment_video.pkl"
+    }
+]
