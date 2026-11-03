@@ -48,9 +48,24 @@ We design **VideoForest** around three key technical innovations:
 3. **Multi-Agent Reasoning Framework**  
    We develop a multi-agent reasoning mechanism that traverses this hierarchical structure to perform sophisticated cross-video reasoning while maintaining computational efficiency.
 
----
 
-🚧 Note: Code will be published soon.
+
+| 位置 | 用途 |
+| --- | --- |
+| `main.py` | 视频问答入口。 |
+| `agents.py` / `tasks.py` | Agent 定义和任务提示词。 |
+| `tools/video_tree_search_tool.py` | 读取 PKL 视频树、逐层搜索答案。 |
+| `*information.json` / `v_info.json` | 视频描述与 PKL 路径索引。 |
+| `QA/` / `annotation&QA/` / `tree/` | 问答生成、预处理脚本及其他视频索引。 |
+| `test2.py` / `token_test.py` | 批量推理和耗时、Token 记录。 |
+| `count.py` / `count_token.py` | 统计正确率、耗时和 Token。 |
+| `add_path.py` / `clear_json.py` / `new_question_test.py` | 修改索引、清空已有回答。 |
+| `load_pkl.py` / `mul.py` | PKL 查看、旧版多树问答实现。 |
+
+本包不附数据集、标注、实验结果或预处理数据。运行前按索引路径放置可信的 `segment_video.pkl`；批量脚本另需对应 QA JSON。
+
+安装 `requirements.txt`，将 `.env.example` 复制为 `.env` 并填写密钥，在本目录运行 `python main.py`。历史依赖版本未记录，完整 API 推理未验证。
+
 
 ---
 
